@@ -1,4 +1,4 @@
-package Utility;
+package JME;
 
 /**
  * @author Chris Nippert

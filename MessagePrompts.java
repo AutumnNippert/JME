@@ -1,4 +1,4 @@
-package Utility;
+package JME;
 
 import java.util.Scanner;
 
